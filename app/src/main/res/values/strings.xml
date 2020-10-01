@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Smart Blind Stick</string>
+    <string name="logintitle">Login</string>
+    <string name="hint_email">Email</string>
+    <string name="enterpasswd">Password</string>
+    <string name="loginbtn">Login</string>
+    <string name="signuptitle">Signup</string>
+    <string name="namehint">Name</string>
+    <string name="passwdhint">Password</string>
+    <string name="confirm_passwordhint">Confirm Password</string>
+    <string name="signuphint">Signup</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Match !</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="donthaveaccount">Don\'t have Account? SIGN UP</string>
+    <string name="title">Title</string>
+    <string name="details">Details</string>
+    <string name="addphoto">Add Photos</string>
+    <string name="add_note">ADD NOTE</string>
+    <string name="mobileno">Mobile</string>
+    <string name="image">image</string>
+    <string name="title1">Title</string>
+    <string name="descr">Details</string>
+    <string name="error_phone">Please enter valid mobile number!</string>
+    <string name="click_here_to_watch_photos">Click here to Watch Photos</string>
+    <string name="hint_enter_note">Enter your note!</string>
+    <string name="activity_title_home">Notes</string>
+    <string name="msg_no_notes">No notes found!</string>
+</resources>
